@@ -1,10 +1,3 @@
-controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
-    if (true) {
-    	
-    } else {
-    	
-    }
-})
 let Frames = [
 img`
     ffffffffffffffffffffcbbcffffffffcffffffffffcbddddddddddddddddddd1ddbbddd1d11dbccfffffcccccffffcbbcffccccffffffffffffffffffffffffffffffffffffffffffffffffffffffff
